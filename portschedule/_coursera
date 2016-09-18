@@ -1,0 +1,16 @@
+modelingoptimization-001
+6vp6Er9J-dev
+Port Schedule
+6
+Z08KsXDk, portschedule.mzn, ./data/ps_01_08_00.dzn, 300, Port Schedule Problem 1 (Stage A)
+4GgTzlyB, portschedule.mzn, ./data/ps_01_08_00.dzn, 300, Port Schedule Problem 2 (Stage B)
+cFBsWua5, portschedule.mzn, ./data/ps_03_12_00.dzn, 300, Port Schedule Problem 3 (Stage C)
+bErPN5GV, portschedule.mzn, ./data/ps_03_12_00.dzn, 300, Port Schedule Problem 4 (Stage D)
+pnbvF8KS, portschedule.mzn, ./data/ps_04_12_00.dzn, 300, Port Schedule Problem 5 (Stage E)
+g7zxoydf, portschedule.mzn, ./data/ps_04_12_01.dzn, 300, Port Schedule Problem 6 (Stage F)
+5
+cZdjRPEQ, portschedule.mzn, Port Schedule Model (Stage B)
+YlOWFW4w, portschedule.mzn, Port Schedule Model (Stage C)
+srDC99lN, portschedule.mzn, Port Schedule Model (Stage D)
+uEvJIJzt, portschedule.mzn, Port Schedule Model (Stage E)
+1d4j4WCO, portschedule.mzn, Port Schedule Model (Stage F)
